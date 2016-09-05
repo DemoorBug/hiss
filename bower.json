@@ -1,0 +1,23 @@
+{
+  "name": "696",
+  "authors": [
+    "DemoorBug <1004041672@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "owl.carousel": "^2.1.6"
+  }
+}
